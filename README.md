@@ -25,6 +25,7 @@ when stack limit is 3
             stack.Push(saburo);
 ```
 
+```
 <------------------->
 Taro
 <------------------->
